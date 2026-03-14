@@ -1,0 +1,13 @@
+# IDE directories
+.kiro/
+.zed/
+
+# Cache and virtual environment
+.cache/
+.venv/
+
+# Python cache
+**/__pycache__/
+
+# Node.js dependencies
+vue-dome/node_modules/
